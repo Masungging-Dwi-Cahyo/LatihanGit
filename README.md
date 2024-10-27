@@ -1,0 +1,2 @@
+# LatihanGit
+Belajar menggunakan GIT
